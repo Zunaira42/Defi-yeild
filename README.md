@@ -51,4 +51,4 @@ It can be customized for:
 ---
 
 ### 📸 Preview
-<img width="1000" height="6121" alt="image" src="https://github.com/user-attachments/assets/8563e502-1ba7-4498-bca1-f8fac7d890bc" />
+<img width="1234" height="8000" alt="image" src="https://github.com/user-attachments/assets/259e8591-fea5-4b1a-8ee8-7bae59479894" />
